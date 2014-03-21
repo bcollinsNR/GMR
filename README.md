@@ -1,11 +1,5 @@
-Grande Mark Ranch 2012
+Grande Mark Ranch 2012 (RIP)
 ===
-Right now:
-Only works on FF :(...
+WebGL stuff only worked on FF, so I had to take it down :(...
 
-Need to make this work w/ Chrome again.
-
-Live:
-grandemarkranch.com
-
-Grass will grow and follow your cursor. Click on the cow for more information.
+Grass will "grow" and follow your cursor, simulating wind(?). Click on the cow for more information.
